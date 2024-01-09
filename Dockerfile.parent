@@ -1,0 +1,3 @@
+FROM ubuntu
+
+COPY file.txt /usr/local/file.txt
